@@ -9,7 +9,7 @@
     --brown: rgba(200,165,125,255);
 }
 
-/*.background-img {
+.background-img {
     height: 100%;
     width: 100%;
     background-image: url("bgimg.webp");
@@ -17,7 +17,7 @@
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
-}*/
+}
 
 body {
     background-color: var(--brown);
