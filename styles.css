@@ -60,9 +60,8 @@ header {
 }
 .small-img {
     width: 5rem;
+    border-radius: 50px;
     position: absolute;
-    top: 0;
-    left: 0;
     z-index: 10;
     opacity: 0.8;
 }
